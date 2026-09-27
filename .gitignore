@@ -1,0 +1,22 @@
+# Конфиденциальные данные (ТОКЕН БОТА)
+.env
+
+# База данных SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Временные файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Виртуальные окружения
+venv/
+.venv/
+env/
+
+# Настройки IDE
+.vscode/
+.idea/
